@@ -15,7 +15,7 @@ class MovieListTableViewController: UITableViewController {
     var movieText: String!
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+       
         title = "Movies List" // adding the title to the main table view
 
         // Uncomment the following line to preserve selection between presentations
